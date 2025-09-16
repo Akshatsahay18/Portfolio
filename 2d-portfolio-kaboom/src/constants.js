@@ -1,22 +1,39 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in C++,Python these days.
-    I also like Javascript . Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/Akshatsahay18" target="_blank">Github</a>!`,
-  "cs-degree": `This is my ECE degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube . 
- i also do progamming here i also have keen intrest in game development,ML and web developmentt,
-  tv: `That's my TV. I've been watching many tech channels lately because I like to expand my horizons in every field'  : people say jack of all trades is master of none but they forget its ofen better than master of one
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1835vl1LBuDhktYbT7V67AfNm4jMvTymW/view" target="_blank">Check it out?</a>
-  Contact me at akshatsahay123@gmail.com if you have any interesting job opportunities!`,
-  projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
-  library: `There are a lot of programming books on my shelves. There is even one in English (I also speak English btw).
-  I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-  exit: `If you want to exit Akshat's portfolio, just close the tab.`,
+  pc: `This is my PC. I primarily work with C++ and Python these days,
+    but I also enjoy JavaScript. Regardless of the language, programming itself excites me.
+    Here is my <a href="https://github.com/Akshatsahay18" target="_blank">GitHub</a>!`,
+
+  "cs-degree": `This is my ECE degree. I display it proudly as it represents years of dedication.
+    Although the program was highly theoretical, it provided me with a strong technical foundation.`,
+
+  "sofa-table": `This is my sofa, where I like to unwind and watch YouTube.
+    I also spend time here working on programming projects. 
+    My interests include game development, machine learning, and web development.`,
+
+  tv: `This is my TV. Lately, I’ve been following technology channels to broaden my perspective across different fields. 
+    People often say "a jack of all trades is a master of none," but they forget the full phrase —
+    "oftentimes better than master of one." I believe versatility is a strength.`,
+
+  bed: `This is where I sleep. Interestingly, many of my best ideas come to me while I’m lying here. 
+    I keep a habit of writing them down immediately; otherwise, I can’t rest until I capture the thought.`,
+
+  resume: `This is my desk, and on it lies my resume. 
+    <a href="https://drive.google.com/file/d/1835vl1LBuDhktYbT7V67AfNm4jMvTymW/view" target="_blank">Check it out</a>.  
+    Feel free to reach out at <strong>akshatsahay123@gmail.com</strong> if you’d like to collaborate or discuss opportunities.`,
+
+  projects: `This portfolio itself is one of my projects. 
+    It’s built using the Kaboom.js library for game development in JavaScript.
+    The text you’re reading is styled with HTML and CSS, rather than being rendered directly in the canvas.`,
+
+  library: `These are my shelves filled with programming books. 
+    I admit, I’ve only read a few cover-to-cover, but I find value in collecting them as references and inspiration. 
+    Many developers can probably relate to buying technical books faster than they can finish them.`,
+
+  exit: `To exit this portfolio, simply close the tab. Thanks for visiting!`,
 };
+
 
 
 
