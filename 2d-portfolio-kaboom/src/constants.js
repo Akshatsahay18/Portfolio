@@ -10,7 +10,7 @@ export const dialogueData = {
 
   "sofa-table": `This is my sofa, where I like to unwind and watch YouTube.
     I also spend time here working on programming projects. 
-    My interests include game development, machine learning, and web development.`,
+    My interests include game development, data analysis and frontend development .`,
 
   tv: `This is my TV. Lately, I’ve been following technology channels to broaden my perspective across different fields. 
     People often say "a jack of all trades is a master of none," but they forget the full phrase —
@@ -20,7 +20,7 @@ export const dialogueData = {
     I keep a habit of writing them down immediately; otherwise, I can’t rest until I capture the thought.`,
 
   resume: `This is my desk, and on it lies my resume. 
-    <a href="https://drive.google.com/file/d/1835vl1LBuDhktYbT7V67AfNm4jMvTymW/view" target="_blank">Check it out</a>.  
+    <a href="https://drive.google.com/file/d/1pRUhlJxN9OrvSrw4ojG3ksYQgCqH7m69/view" target="_blank">Check it out</a>.  
     Feel free to reach out at <strong>akshatsahay123@gmail.com</strong> if you’d like to collaborate or discuss opportunities.`,
 
   projects: `This portfolio itself is one of my projects. 
@@ -33,6 +33,7 @@ export const dialogueData = {
 
   exit: `To exit this portfolio, simply close the tab. Thanks for visiting!`,
 };
+
 
 
 
