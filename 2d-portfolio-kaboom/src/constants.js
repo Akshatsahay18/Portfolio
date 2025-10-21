@@ -10,7 +10,7 @@ export const dialogueData = {
 
   "sofa-table": `This is my sofa, where I like to unwind and watch YouTube.
     I also spend time here working on programming projects. 
-    My interests include game development, data analysis and frontend development .`,
+    My interests include game development, data science and analysis and frontend development .`,
 
   tv: `This is my TV. Lately, I’ve been following technology channels to broaden my perspective across different fields. 
     People often say "a jack of all trades is a master of none," but they forget the full phrase —
@@ -33,6 +33,7 @@ export const dialogueData = {
 
   exit: `To exit this portfolio, simply close the tab. Thanks for visiting!`,
 };
+
 
 
 
